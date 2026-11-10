@@ -86,8 +86,7 @@ Bachelor of Science in Computer Science | Certificate in Applied Data Science
 
 - 🥇 **1st Place Nationally** — Bank of America Summer Hackathon (2026)
 - 🥇 **1st Place (Capgemini Challenge)** — Clemson Hacks / CUhackit (2026)
-- 🎓 **AWS AI & ML Scholar** — Udacity / AWS (2026)
-- 🎓 **AWS Agentic AI Nanodegree Program Candidate** (2026)
+- 🥇 **1st Place (Hardware Challenge)** — University of Georgia Hacks / UGA Hacks (2025)
 
 ---
 
@@ -111,4 +110,4 @@ Bachelor of Science in Computer Science | Certificate in Applied Data Science
 ## 🌐 Connect
 
 - **GitHub:** [github.com/al69114](https://github.com/al69114)
-- **LinkedIn:** [Adithya Lakshmikanth](https://www.linkedin.com)
+- **LinkedIn:** https://www.linkedin.com/in/ladithya/
